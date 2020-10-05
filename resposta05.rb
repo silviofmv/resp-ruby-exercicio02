@@ -13,3 +13,4 @@ elsif media > 7.0
 else
   puts "Média = #{media} - Aluno reprovado"
 end
+

@@ -31,3 +31,4 @@ end
 
 puts "O maior número é #{maior}"
 puts "O menor número é #{menor}"
+

@@ -6,3 +6,4 @@ if numero > 0
 else
   puts "O número #{numero} é maior que #{numero1} "
 end
+
